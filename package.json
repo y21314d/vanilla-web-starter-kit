@@ -1,13 +1,10 @@
 {
-  "name": "vanilla-web-no-name",
+  "name": "plain-web-start-kit",
   "version": "0.0.1",
-  "main": "public/app/index.js",
+  "main": "./index.js",
   "scripts": {
-     "start":"./node_modules/.bin/http-server -a localhost  -p 8080 -c-1"
+   
   },
-  "author": " will streeter",
-  "license": "",
-  "devDependencies": {
-    "http-server": "^0.10.0"
-  }
+  "author": "Lyon",
+  "license": ""
 }
